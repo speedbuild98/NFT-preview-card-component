@@ -9,9 +9,7 @@ function App() {
     <div className="App">
         <div className="Card">
         <img className="nft" src={nft} alt="nft"/>
-        <div className="CardHover">
-        <div className="fondoImg"></div>
-        </div>
+        <div className="CardHover"></div>
         
 
         <h1 className="hovertextos">Equilibrium #3429</h1>
