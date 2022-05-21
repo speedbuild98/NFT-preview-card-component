@@ -144,6 +144,11 @@ body p{
   right: 0;
   bottom: 0;
   height: 20px;
+  opacity: 30%;
+}
+
+.attribution:hover{
+  opacity: 100%;
 }
 
 .attribution a{
@@ -154,6 +159,7 @@ body p{
 .attribution a:hover{
   text-decoration: underline;
   color: blue;
+  opacity: 100%;
 }
 
 .clock{
