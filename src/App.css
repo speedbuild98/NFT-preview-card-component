@@ -174,7 +174,7 @@ h1:hover,#name:hover{
   cursor: pointer!important;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 450px) {
   .CardHover{
     display: none;
   }
