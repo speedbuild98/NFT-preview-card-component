@@ -21,11 +21,13 @@ body{
 }
 body p{
   color:#8BACD9;
+  font-size: 18px;
 }
 .Card{
-  width:350px;
-  height: 590px;
+  height: 620px;
   display:flex;
+  padding: 1.5rem;
+  max-width: 21.875rem;
   flex-direction: column;
   background-color: var(--very-dark-blue2);
   padding: 25px;
@@ -40,7 +42,7 @@ body p{
 }
 
 .Card img{
-  border-radius: 10px;
+  border-radius: 8px;
   z-index: 5;
   cursor: pointer;
   transition: 300ms ease-out;
